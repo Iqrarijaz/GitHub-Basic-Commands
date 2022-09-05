@@ -11,7 +11,7 @@ git log  // to check details of committing
 // make changes in files and run 
 git status
 // modified files wil be viewed.
-git add fileName want to commit
+git add fileName want to commit.
 
 rm -rf .git   // to remove git from folder
 
