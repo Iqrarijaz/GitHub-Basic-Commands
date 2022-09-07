@@ -42,7 +42,6 @@ git log -p  compete changing  log
 git log --stat
 
 git log --pretty=oneline,short
-
-git log --since=2.days  // previous two days work
+git log --since=2.days  // previous two days work check
 
 git log --since =2.weeks
